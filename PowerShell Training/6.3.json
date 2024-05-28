@@ -1,0 +1,61 @@
+{
+  "NL": {
+    "Flevoland": "Lelystad",
+    "South Holland": "The Hague",
+    "Limburg": "Maastricht",
+    "Zeeland": "Middelburg",
+    "Utrecht": "Utrecht",
+    "Groningen": "Groningen",
+    "Drenthe": "Assen",
+    "Gelderland": "Arnhem",
+    "North Holland": "Haarlem",
+    "Overijssel": "Zwolle",
+    "North Brabant": "'s-Hertogenbosch",
+    "Friesland": "Leeuwarden"
+  },
+  "BE": {
+    "East Flanders": "Ghent",
+    "Li├¿ge": "Li├¿ge",
+    "Antwerp": "Antwerp",
+    "West Flanders": "Bruges",
+    "Namur": "Namur",
+    "Flemish Brabant": "Leuven",
+    "Luxembourg": "Arlon",
+    "Hainaut": "Mons",
+    "Walloon Brabant": "Wavre",
+    "Limburg": "Hasselt"
+  },
+  "FR": {
+    "Corsica": "Ajaccio",
+    "Brittany": "Rennes",
+    "Auvergne-Rh├┤ne-Alpes": "Lyon",
+    "Grand Est": "Strasbourg",
+    "Occitanie": "Toulouse",
+    "Centre-Val de Loire": "Orl├⌐ans",
+    "Bourgogne-Franche-Comt├⌐": "Dijon",
+    "├Äle-de-France": "Paris",
+    "Provence-Alpes-C├┤te d'Azur": "Marseille",
+    "Nouvelle-Aquitaine": "Bordeaux",
+    "Normandy": "Rouen",
+    "Pays de la Loire": "Nantes",
+    "Hauts-de-France": "Lille"
+  },
+  "GE": {
+    "Brandenburg": "Potsdam",
+    "Bremen": "Bremen",
+    "North Rhine-Westphalia": "D├╝sseldorf",
+    "Hesse": "Wiesbaden",
+    "Schleswig-Holstein": "Kiel",
+    "Berlin": "Berlin",
+    "Baden-W├╝rttemberg": "Stuttgart",
+    "Saxony": "Dresden",
+    "Mecklenburg-Western Pomerania": "Schwerin",
+    "Saarland": "Saarbr├╝cken",
+    "Rhineland-Palatinate": "Mainz",
+    "Thuringia": "Erfurt",
+    "Bavaria": "Munich",
+    "Lower Saxony": "Hanover",
+    "Saxony-Anhalt": "Magdeburg",
+    "Hamburg": "Hamburg"
+  }
+}
